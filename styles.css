@@ -1,0 +1,14 @@
+p{
+    font-size: 16px;
+    height: 1.5;
+    color: darkgray;
+}
+input{
+    width: 300px;
+}
+submit button{
+    background-color: green and white;
+}
+fieldset{
+    margin: 10px;
+}
